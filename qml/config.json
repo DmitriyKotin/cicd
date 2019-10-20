@@ -1,0 +1,8 @@
+{
+  "title": "Cicd",
+  "identifier": "com.yourcompany.wizardEVAP.Cicd",
+  "orientation": "auto",
+  "versioncode": 1,
+  "versionname": "1.0",
+  "stage": "test"
+}
